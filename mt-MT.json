@@ -4361,7 +4361,7 @@
                 "Iċ-ċans li noħrog minn din is-sitważżonji huwa <i>zero</i>.",
                 "Jien fallejt.",
                 "Nħallas ħajti għall din il-falliment.",
-                "The coats will not get away with this.",
+                "Mhux se nħalli dawn ix-xjentisti biex tmur mingħajr konsegwenżi...",
                 "I am too pathetic to succeed.",
                 "But a flesh bag of blood and bones...",
                 "Such a cruel, unfunny joke...",
@@ -4378,7 +4378,7 @@
                 "GHH! ...That felt... Surprisingly good."
             ],
             "suicide": [
-                "Cannot. Take this. Anymore. Over.",
+                "Ma. Nistax. Nisapportiħ. Iktar.",
                 "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! WWWHHHHYYYYYYYYYYYYY!!!???",
                 "Daqshekk. Għajjet.",
                 "Ħaqq dan l-aġġurament...",
@@ -4436,12 +4436,12 @@
             ],
             "steponglass": [
                 "Naqra ddiżappuntat bit-traskuraġnijiet tiegħi.",
-                "Kien hemm miljun modijiet kif nista ma nħallix dak jiġri, u xorta għafast is-saqà tiegħi fuq biċċa ħġiega.",
+                "Kien hemm miljun modijiet kif nista ma nħallix dak jiġri, u xorta għafast is-sieq tiegħi fuq biċċa ħġiega.",
                 "Aħħ.",
                 "Jien ma kalkulajtiex sewwa.",
                 "Għalfejn ma ttemperax dawn it-twieqi?",
-                "Biċċiet tal-hġieġ gos-sieqi.",
-                "I must clean up the shards."
+                "Biċċiet tal-hġieġ ġo sieqi.",
+                "Għandi bżonn ineħħi dawn il-ħġieġ."
             ],
             "seecorpse": [
                 "Aħjar int milli jien.",
@@ -4458,7 +4458,7 @@
                 "I should not touch them.",
                 "Suppost ħalliet xi ħaġa warajja, jew?",
                 "M'hemmx polza.",
-                "Mhux jed jofoh.",
+                "Mhux jed jofoħ.",
                 "Hhnh...",
                 "Upsetting.",
                 "Damn it.",
@@ -4563,11 +4563,11 @@
             "exhausted": [
                 "Exhausted...",
                 "Huff... Huff... Puff...",
-                "I require... Rest...",
-                "I am... Fully exerted...",
-                "I need... To breathe...",
-                "Drained...",
-                "It is... Difficult... to breathe...",
+                "Għandi bżonn... nistrieħ...",
+                "Għajjejt...",
+                "Għandi bżonn... nieħu nifs.",
+                "Għajjejt...",
+                "Naqra diffiċli... biex nieħu nifs...",
                 "*cough* *cough*",
                 "My muscless... Are... Giving out...",
                 "Focus..."
