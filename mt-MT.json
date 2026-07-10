@@ -2242,7 +2242,7 @@
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
-        "startlorenote": "2XXX\n<>\nL-umanità għamlet avvanzi kbar f'teknoloġija. Affarijiet li deher impossibli ħafna snin qabel huwa abbundanti issa.\n<>\nF'ċentru, kien hemm kumpanija waħda. Il-progress tagħhom kienet mirakoluz, imma s-sigrieti tagħhom kienet mżamm mill-qrib.\n<>\nĦafna snin ilu, il-kumpanija kkrejaw speċi ġdida: kombinazzjoni tad-DNA tal-umani u annimali, li kienu msemmi \"Esperimenti.\"\n<>\nDawn l-esperimenti kienu is-suġġetti perfetti. Kienu qrib l-umani, imma tagħhom biex tagħmlu kull li riedu. Huma ħadmu fuqhom kull ġurnata, jbiddel il-bioloġija tagħhom biex jisapporti l-bżonnijiet. Il-populazzjoni splodiet sena wara l-oħra.\n\nHadd ma kellu iċ-cans biex tara x'kien hemm barra.\n<>\nIssa, dehret li d-dinja ma jistax jisapporti l-ambizzjonijiet tagħhom. Bit-teknoloġija tal-teleportazzjoni gdida, il-kumpanija hares lejn pjaneta griż.\n<>\nEventwalment, ħafna tagħbija u żibel wasal hemmhekk.\n<>\nMinhabba problemi f'kalibrazzjoni, l-istess ammont tal-affarijiet wasal ġos-sistema tal-għerien bħal li wasal fuq il-wiċċ tal-pjaneta...\n<>\nQabel problema teknikali bagħat biċċa teknoloġija importanti ġol-għerien.\n<>\nImmedjament wara, ix-xjentisti għamlu pjan b'risku zgħir għalihom.\n<>\nIċ-cans tas-suċċess kien baxxa, imma l-għeluf ħaj kien abbundanti.\n<>\nInt speċi waħda sfortunat.\nIr-resistenża mhuiex għazla."
+        "startlorenote": "2XXX\n<>\nL-umanità għamlet avvanzi kbar f'teknoloġija. Affarijiet li deher impossibli ħafna snin qabel huwa abbundanti issa.\n<>\nF'ċentru, kien hemm kumpanija waħda. Il-progress tagħhom kienet mirakoluz, imma s-sigrieti tagħhom kienet mżamm mill-qrib.\n<>\nĦafna snin ilu, il-kumpanija kkrejaw speċi ġdida: kombinazzjoni tad-DNA tal-umani u annimali, li kienu msemmi \"Esperimenti.\"\n<>\nDawn l-esperimenti kienu is-suġġetti perfetti. Kienu qrib l-umani, imma tagħhom biex tagħmlu kull li riedu. Huma ħadmu fuqhom kull ġurnata, jbiddel il-bioloġija tagħhom biex jisapporti l-bżonnijiet. Il-populazzjoni splodiet sena wara l-oħra.\n\nHadd ma kellu iċ-cans biex tara x'kien hemm barra.\n<>\nIssa, dehret li d-dinja ma jistax jisapporti l-ambizzjonijiet tagħhom. Bit-teknoloġija tal-teleportazzjoni gdida, il-kumpanija hares lejn pjaneta griż.\n<>\nEventwalment, ħafna tagħbija u żibel wasal hemmhekk.\n<>\nMinhabba problemi f'kalibrazzjoni, l-istess ammont tal-affarijiet wasal ġos-sistema tal-għerien bħal li wasal fuq il-wiċċ tal-pjaneta...\n<>\nQabel problema teknikali bagħat biċċa teknoloġija importanti ġol-għerien.\n<>\nImmedjament wara, ix-xjentisti għamlu pjan b'risku zgħir għalihom.\n<>\nIċ-cans tas-suċċess kien baxxa, imma l-għeluf ħaj kien abbundanti.\n<>\nInt speċi waħda sfortunat.\nIr-resistenża mhuiex għazla.",
     },
     "character": [
         {
@@ -2582,8 +2582,8 @@
                 "Dak l-ikla tiegħi...",
                 "Bllggh... Mistħija...",
                 "Ugh... nħoss terribli...",
-                "Dak KIEN l-ikla tal-lejl tiegħi...",
-                "Guhhgh... Jaqq..",
+                "Dak <i>kienet</i> l-ikla tal-lejl tiegħi...",
+                "Guhhgh... Jaqq.",
                 "Uughh.. Ew...",
                 "Nħoss... Vojt.",
                 "Guughhg... hcck... L-istonku tiegħi...",
@@ -2600,7 +2600,7 @@
                 "Fuck me... Ough... Damn it..."
             ],
             "vomitblood": [
-                "Bluughh... Jien--- Il-aħwa. Dak demm...",
+                "Bluughh... Jien--- Il-ostrina. Demm...",
                 "Ghghh... *cough* Ħaqq... Dak... Demm...",
                 "Hemm tmur l-ik-- Oh. Le, le, le. Le... Dak demm li qlajt...",
                 "Bllggh... ugh... I... Oh... God...",
@@ -2618,7 +2618,7 @@
                 "Ħħ.... Ħaqq... ugh... Demm... Mhux tajjeb...",
                 "Wow... Issa qlajt... Demm? Xiex?",
                 "Ghhuhh... Għalfejn... għamilt...",
-                "Jien... guugh... ċert li dak demm li qlajt issa. Għandi fsida ġewwa...",
+                "Jien... ċert li dak demm li qlajt issa. Għandi fsida ġewwa...",
                 "Dan mhux... ghghuh... l-ikla tiegħi... Dan mhux... Oh...",
                 "Fuck me... Ough... Damn it... Not like this..."
             ],
@@ -2633,10 +2633,10 @@
                 "Qisni qed nħoss li se nisplodi.",
                 "Ma nistax niekol iktar...",
                 "Għandi bżonn nieqaf nħanzer...",
-                "Il-piż tiegħi se jzid iktar f'din il-punt...",
+                "Il-piż tiegħi se jzid iktar wara din il-punt...",
                 "Għandi bżonn nieqaf niekol.",
                 "Daqshekk!",
-                "Jien ser naqla b'dan ir-rata.",
+                "Ser naqla b'rata li jien sejjer biħ.",
                 "Biżżejjed ikla.",
                 "Ma niflaħx...",
                 "Naħseb jien se naqla...",
@@ -2778,16 +2778,16 @@
                 "I really tore my fur up...",
                 "Għandi bżonn nieħu ħsieb <limb>... jidher terribli.",
                 "My <limb>'s all torn up.",
-                "Il-pil fuq il-<limb> tiegħi kollox mħawwad.",
-                "Gerfixt il-<limb> tassew hażin... Aħħ...",
-                "Uġigħ kull hemm fuq il-<limb>... Uff.",
+                "Il-pil fuq il-<limb> tiegħi kollox imħawwad.",
+                "Gerfixt <limb> tassew hażin... Aħħ...",
+                "Uġigħ kull hemm fuq <limb>... Uff.",
                 "<limb> tiegħi kollox mqattà...",
                 "Nħoss l-<limb> tiegħi se jkun infettat...",
                 "My <limb> looks hurt.",
                 "My <limb> looks wounded.",
                 "My <limb> isn't looking well...",
                 "My <limb> is all bloody...",
-                "Il-ostrina! Jidher li jien ma kalkulajtx is-sitwazzjoni tiegħi sewwa u issa il-<limb> kollox isfar! Mamma mia, x'nagħmel issa?"
+                "Il-ostrina! Jidher li jien ma kalkulajtx is-sitwazzjoni tiegħi sewwa u issa <limb> kollox isfar! Mamma mia, x'nagħmel issa?"
             ],
             "sad": [
                 "Things could be worse.",
@@ -3834,8 +3834,8 @@
             "traderdepressed": [
                 "Ehhh... int orrajt? Qed tidher... Mitluf?",
                 "...Laqqas tislima? X'qed-- Għalfejn qed tħarisni hekk?",
-                "Um...  Ħelow? Int orrajt?",
-                "...Tidher imbeżżà. Int okay? Ħelow?",
+                "...Ħelow? Int sewwa?",
+                "...Tidher imbeżżà. Kif int? Ħelow?",
                 "Ej! Kif in-- Ma tidihrx sewwwa, sieħbi... Ehhh...",
                 "Ej! X'inhu dan id-dehra? Er..."
             ],
@@ -3941,11 +3941,11 @@
                 "WAQQAF!",
                 "Sorm!",
                 "Ieqaf!",
-                "AAH!",
+                "AĦĦ!",
                 "NGH!",
                 "Ħaqq.",
                 "Ħaqq. Ħaqq. <i>Ħaqq!</i>",
-                "INT!"
+                "<i>Int!</i>"
             ],
             "braindamaged": [
                 "Għandi togħma ta' metall.",
@@ -3995,15 +3995,15 @@
                 "Nhh... Mhux hekk... Please... Jekk jogħġbok... Salvani...",
                 "Please... Ma rridx... Ma rridx immut... Salvani, xi ħadd... xi ħaga... M-Mhux lest...",
                 "...D-daqt jkun lest?",
-                "Ieqaf... Ieqaf... Ieqaf... Please... Ie-ieqaf... Mhux h-hekk... Salvani...",
-                "Ħaqq... Ħaqq... Għini... Ma rridx... rridx immut... Ħ-ħ..."
+                "Ieqaf... Ieqaf... Ieqaf... Please... Ie-- Ieqaf... Mhux hawnhekk... Salvani...",
+                "Ħaqq... Ħaqq... Għini... Ma rridx-- Ma rridx immut... Ħ-ħ..."
             ],
             "magicheal": [
-                "...Huh? Inħoss... Aħjar?",
+                "...Eh? Inħoss... Aħjar?",
                 "Ahh..! ...Huh. That feels... That feels better. I liked that."
             ],
             "selfdestruct": [
-                "Uhhh... X'inhu din il-ħoss?",
+                "Ehhh... X'inhu din il-ħoss?",
                 "...Oh. Oh. Oh. <i>Oh!</i> LE. LE, LE, LE. STENNA. GĦALFEJN? JIEN X'GĦAMILT!?",
                 "...A-ah... Alright... W-well... G-goodbye, t-then..."
             ],
@@ -4011,7 +4011,7 @@
                 "Ehhhh... Int orrajt?"
             ],
             "vomitbloodresponse": [
-                "Ack! X'għam-- Oh... Aw, int taf li int... qlajt demm?"
+                "Il-aħwa! X'għam-- Aw... Int taf li... qlajt demm?"
             ],
             "hungryresponse": [
                 "Hemm naqra ikel hawnhekk, taf?",
@@ -4042,11 +4042,11 @@
             ],
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
-                "A-Aw, ikkalma. Kollox se tkun orrajt."
+                "Aw, ikkalma. Kollox se tkun orrajt."
             ],
             "painresponse": [
-                "Orrajt? X'ġaralek?",
-                "Int imxejt fuq xi ħaġa?"
+                "Int orrajt? X'ġaralek?",
+                "Waqajt fuq xi ħaġa?"
             ],
             "dirtyresponse": [
                 "...We have a shower, you know. Or... Just, go swim in the pools out and about..."
@@ -4914,7 +4914,7 @@
                 "Please leave my pod in peace. I got here first."
             ],
             "tradercombat": [
-                "Ma ridtx nwassal f'din il-punt...",
+                "Ma ridtx nwassal sa din il-punt...",
                 "Kemm int imbeċil.",
                 "Oħrog barra issa.",
                 "Uuuu, <i>ħaqq</i> lilek innifsek!",
@@ -5009,15 +5009,15 @@
                 "Take a painkiller. Surely, you must have some..."
             ],
             "dirtyresponse": [
-                "Correct. You are filthy. Refrain from touching me until you clean yourself."
+                "Korrett. Int maħmuġ. Tmissnix qabel int taħsel ħasla sewwa."
             ],
             "encumberedresponse": [
                 "Would it hurt to leave those heavy belongings with me?",
                 "Such a tease you are."
             ],
             "dyingresponse": [
-                "I'm not sure CPR will help the situation at hand.",
-                "Really? Dying, on MY floor?",
+                "...Ma naħsibx iċ-ĊPR se jgħin is-sitwazzjoni li għandna .",
+                "Bis-serjetà? Tmut, fuq <i>l-art tiegħi?</i>",
                 "Will panicking really make the situation any better?"
             ]
         },
@@ -5034,7 +5034,7 @@
                 "GGack! Ħ-elow!",
                 "Mmmm... Sieħ-bi... Mer-ħba għall... Sigurtà...",
                 "Sieħ-bi! Ħe-low...! Kif int...",
-                "Dune sab... Ħa-bib taj-jeb!...",
+                "Duna sab... Ħa-bib taj-jeb!...",
                 "Ħe-low!... Ħa-bib... Ej-ja...",
                 "Ħa-bib ġ-did?.. Dune fer-ħan..."
             ],
@@ -5044,7 +5044,7 @@
                 "Grrrrr... Ħa-bib... Ma dd-uqx tajjeb...",
                 "Grrrr... Per-suna ha-żina!.. Grrr...",
                 "Grrrpmh.. Hażin!... Mħux ħa-bib...",
-                "Dune... ma tħ-obb-x... ħa-bib!..."
+                "Duna... ma tħ-obb-x... ħa-bib!..."
             ],
             "traderwakegreet": [
                 "Ħabi-b... Ikser ngħas...",
@@ -5052,14 +5052,14 @@
                 "Qum... Bon-ġu...",
                 "Qum... Ħa-bib...",
                 "Q-um.. Sie-ħbi...",
-                "Haħ-bib tor-qod... Qum... Dune tis-selli!"
+                "Haħ-bib tor-qod... Qum... Duna tis-selli!"
             ],
             "tradergiveitem": [
-                "Dune tie-ħu.",
+                "Duna tie-ħu.",
                 "Taċċetta... ħa-ġa!",
-                "Dune tie-ħu ħa-ġa!",
+                "Duna tie-ħu ħa-ġa!",
                 "Graz-zi... Sieħ-bi...",
-                "Du-ne bż-onn...",
+                "Du-na għan-du bż-onn...",
                 "Tajj-eb... Graz-zi...",
                 "Sieħ-bi tagħ-ti... Tajjeb..."
             ],
@@ -5068,14 +5068,14 @@
                 "Is eno-ugh...",
                 "Fri-end.. Not.. Get it.. En-ough...",
                 "Dune n-ot... Take mo-re!",
-                "Le! Dune għ-anda biż-żejjed..."
+                "Le! Duna għ-andu biż-żejjed..."
             ],
             "traderbite": [
                 "Good... Enjoy tast-e. Like fri-end more!",
-                "Yes... Than-k for... Du-ne din-ner...",
-                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
-                "Eat good... Fri-end good...",
-                "Dune lo-ves fri-end taste...",
+                "Iva... Grazz-i għall... ik-la Du-na...",
+                "Mmmm... Graz-zi... Togħ-ma tajba... Ħu xi ħa-ġa...!",
+                "Kul taj-jeb... Ħa-bib tajjeb...",
+                "Duna tħ-obba ħa-bib togħma...",
                 "Go-od fri-end... Ate we-ll..."
             ],
             "traderbuy": [
